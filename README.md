@@ -2,4 +2,4 @@
 
 
 
-This is a program to download, view, search for a book online
+Download, view and search for a books online on the internet 
